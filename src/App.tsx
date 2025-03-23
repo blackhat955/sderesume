@@ -24,6 +24,11 @@ function App() {
                 <LinkedinIcon size={20} />
                 LinkedIn
               </a>
+              <a href={resumeData.personal.links.LeetCode} target="_blank" rel="noopener noreferrer" className="hover:text-white flex items-center gap-1">
+                  <LeetcodeIcon size={20} />
+                  LeetCode
+                    </a>
+
               <a href={resumeData.personal.links.GitHub} target="_blank" rel="noopener noreferrer" className="hover:text-white flex items-center gap-1">
                 <GithubIcon size={20} />
                 GitHub
