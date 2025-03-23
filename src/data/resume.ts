@@ -6,21 +6,22 @@ export const resumeData = {
     links: {
       LinkedIn: "https://www.linkedin.com/in/durgesh98",
       GitHub: "https://github.com/blackhat955",
-      Portfolio: "https://blackhat955.github.io/portfolio/"
+      Portfolio: "https://blackhat955.github.io/portfolio/",
+      Leetcode: "https://leetcode.com/u/WhoDareToWin/"
     }
   },
   summary: [
     {
       title: "Full Stack Developer",
-      description: "Expertise in React.js, Node.js, and Cloud Technologies"
+      description: "Expertise in React.js, React-Native, Node.js,goLang, Spring Boot and Cloud Technologies(AWS)"
     },
     {
       title: "Data Science Enthusiast",
-      description: "MS in Data Science from Indiana University Bloomington"
+      description: "MS in Data Science from Indiana University Bloomington 2025"
     },
     {
       title: "Problem Solver",
-      description: "ACM ICPC Regionalist with strong algorithmic skills"
+      description: "ACM ICPC Regionalist@2020 with strong Algorithmic skills and Problem Solving Skills"
     }
   ],
   experience: [
@@ -31,7 +32,7 @@ export const resumeData = {
       period: "August 2024 - Present",
       achievements: [
         "Guided 200+ students in full-stack projects using Java, RabbitMQ, Spring Boot, Docker, and cloud platforms",
-        "Directed cross-functional collaborations during sprint cycles, resulting in improved communication flow between diverse technical teams while achieving completion rates above 90% for assigned tasks each term"
+        "Directed cross-functional collaborations during sprint cycles, resulting in the improved communication flow between diverse technical teams while achieving completion rates above 90% for assigned tasks each term"
       ],
       skills: "Docker, Spring Boot, Kotlin, Jetcompose, Java, RabbitMQ, MongoDB"
     },
@@ -42,8 +43,8 @@ export const resumeData = {
       period: "October 2022 - July 2023",
       achievements: [
         "Improved API response time by 25% by migrating from a PHP monolithic system to a microservices architecture using Node.js andExpress.js, optimizing service communication and scalability under high-traffic conditions.",
-        "Architected an API gateway in Node.js within Nuxt.js server middleware to route frontend requests to the appropriate microservices, reducinglatency and enhancing security, improving API efficiency by 20%",
-        "Automated the CI/CD pipeline for the user authentication service using Jenkins and Docker, standardizing the deployment process. Thisautomation reduced deployment times and ensured smooth and consistent rollouts of updates",
+        "Architected an API gateway in Node.js within Nuxt.js server middleware to route frontend requests to the appropriate microservices, reducing and enhancing security, improving API efficiency by 20%",
+        "Automated the CI/CD pipeline for the user authentication service using Jenkins and Docker, standardizing the deployment process. This automation reduced deployment times and ensured smooth and consistent rollouts of updates",
         "Deployed the Node.js application on AWS (Amazon Web Services), leveraging EC2 for scalable and reliable user access"
       ],
       skills: "React.js, MongoDB, Express.js, JWT, AWS EC2, GraphQL, Kubernetes"
@@ -54,8 +55,8 @@ export const resumeData = {
       team: "Engineering Team",
       period: "June 2022 - September 2022",
       achievements: [
-        "Implemented a microservices system with Spring Boot, improving data accessibility by 32% by efficiently sending data packets to an analyticsAPI using RabbitMQ",
-        "Utilized SpringCloud and MyBatis Plus to develop microservices, enabling seamless integration of various modules such as product, order,and inventory management",
+        "Implemented a microservices system with Spring Boot, improving data accessibility by 32% by efficiently sending data packets to an analytics API using RabbitMQ",
+        "Utilized SpringCloud and MyBatis Plus to develop microservices, enabling seamless integration of various modules such as product, order ,and inventory management",
         "Developed full-stack projects, designing RESTful microservices and APIs with Spring Boot and enabling seamless microservice communication via Spring OpenFeign"
       ],
       skills: "Postman, Spring Boot, RabbitMQ, Java"
